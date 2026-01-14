@@ -77,4 +77,4 @@ Open to on-site and hybrid roles starting 2026
 
 ---
 
-**Contact:** [LinkedIn](https://linkedin.com/in/daniel-ploetzl/)
+**Contact:** [LinkedIn](https://linkedin.com/in/daniel-ploetzl/) • daniel@ploetzl.pro
