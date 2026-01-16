@@ -1,8 +1,11 @@
 # Daniel Plötzl
 
-Junior IT Security / Cybersecurity Analyst candidate completing the Computer Software Engineering program at 42 Vienna (project-based, peer-to-peer) with focus on incident response, threat detection, log analysis, and Linux systems.
+Junior Cybersecurity Analyst (SOC Analyst) candidate completing the Computer Software Engineering program at 42 Vienna (project-based, peer-to-peer), with a focus on Linux systems, networking, and security fundamentals.
 
-My background combines hands-on technical training with several years of experience in high-responsibility environments (program management, operations, organizational development). This translates into strong analytical thinking, structured incident handling, clear communication under pressure, and reliability in security operations.
+Hands-on experience through projects involving system hardening, authentication monitoring, log analysis, and process-level understanding of Linux systems.
+
+Background in high-responsibility operational environments contributes strong analytical thinking, structured problem solving, and reliability under pressure.
+
 
 ## 🛠️ Tech Stack
 
@@ -25,23 +28,23 @@ My background combines hands-on technical training with several years of experie
 
 ## Technical Focus
 
-- **Incident response**: log analysis, alert triage, threat investigation
-- **Threat detection**: authentication monitoring, brute-force detection, pattern recognition
-- **Linux security**: system administration, SSH hardening, firewall configuration, permissions
-- **Network security**: TCP/IP protocols, client/server architecture, traffic analysis
-- **Scripting and automation**: bash, parsing logs, security tool development
+- **Linux systems**: processes, permissions, users, file systems, service behavior
+- **Authentication & access control**: SSH authentication, sudo usage, permission boundaries
+- **Log analysis**: parsing authentication logs, identifying failed logins and usage patterns
+- **Networking fundamentals**: TCP/IP, ports, client/server communication, exposure awareness
+- **Scripting & automation**: Bash scripting for system inspection and log parsing
 
-## Current Focus
+## Current Learning Focus
 
-- Security Operations Center (SOC) workflows
-- Incident analysis and alert triage
-- Defensive security fundamentals
-- System behavior and attack surface reduction
+- Security Operations Center (SOC) workflows and responsibilities
+- Analysis of authentication-related security events
+- Defensive security fundamentals and system hardening
+- Understanding system behavior and attack surface reduction
 
 ## 📁 Selected Projects
 
 ### [🔍 soc-auth-triage](https://github.com/daniel-ploetzl/soc-auth-triage)
-**SSH authentication log analyzer for SOC triage**
+**Authentication log analyzer for SOC triage**
 - Failed SSH login analysis and brute-force detection
 - Credential stuffing pattern recognition
 - Perl regex-based log parsing
