@@ -21,7 +21,9 @@ Hands-on experience gained through system hardening projects and custom Bash too
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ## Technical Focus
 
@@ -41,7 +43,7 @@ Hands-on experience gained through system hardening projects and custom Bash too
 ## 📁 Selected Projects
 
 ### [🔍 soc-auth-triage](https://github.com/daniel-ploetzl/soc-auth-triage)
-**Authentication log analysis tool**
+**Authentication log analysis script**
 - Failed SSH login analysis and brute-force detection
 - Credential stuffing pattern recognition
 - Perl regex-based log parsing
